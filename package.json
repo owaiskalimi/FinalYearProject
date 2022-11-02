@@ -10,7 +10,7 @@
     "aws-amplify": "^1.1.10",
     "aws-amplify-react-native": "^2.0.8",
     "react": "16.6.0-alpha.8af6728",
-    "react-native": "0.57.4",
+    "react-native": "0.70.4",
     "react-native-barcode-scanner-google": "^1.4.2",
     "react-native-camera": "^1.5.1",
     "react-native-dialog": "^5.4.0",
